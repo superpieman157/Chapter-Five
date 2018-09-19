@@ -11,7 +11,7 @@ public class ageGame
 		System.out.println("Please input your age and be insulted");
 		usersAge = input.nextInt();
 		
-		if(usersAge>= 12)
+		if(usersAge <= 12)
 		{
 			result = "You are a child, Go away";
 		}
