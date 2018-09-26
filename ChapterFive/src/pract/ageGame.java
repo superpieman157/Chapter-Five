@@ -41,7 +41,7 @@ public class ageGame
 		{
 			result = "Why does your house smell so weird";
 		}
-		else if(usersAge >= 61)
+		else
 		{
 			result = "Welcome to the last few years of your life, it'll be the worst part yet!";
 		}
